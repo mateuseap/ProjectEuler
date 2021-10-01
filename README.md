@@ -1,5 +1,8 @@
 # ProjectEuler
 
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=mateuseap&repo=ProjectEuler&countColor=%237B1E7A) ![GitHub language count](https://img.shields.io/github/languages/count/mateuseap/ProjectEuler?style=for-the-badge) 
+
+
 ### 🧮 What is [Project Euler](https://projecteuler.net/)?
 Project Euler is a series of challenging problems that require mathematical and programming skills. For somebody who enjoys learning new areas of mathematics, Project Euler is going to be a fun journey.
 

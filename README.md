@@ -16,6 +16,14 @@ Project Euler is a series of challenging problems that require mathematical and 
   - [Code](https://github.com/mateuseap/ProjectEuler/blob/main/Problems%20Solved/Problem%201%20-%20Multiples%20of%203%20or%205/problem1.c)
   - [Problem description and its answer](https://github.com/mateuseap/ProjectEuler/blob/main/Problems%20Solved/Problem%201%20-%20Multiples%20of%203%20or%205/%231%20Multiples%20of%203%20or%205%20-%20Project%20Euler.pdf)
 </details>
+<details> <! –– Problem 2 ––>
+  <summary>
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/f1055231234507.564a1d234bfb6.gif" width="20px"/> Problem 2 - Even Fibonacci numbers <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/f1055231234507.564a1d234bfb6.gif" width="20px"/> 
+  </summary>
+  
+  - [Code](https://github.com/mateuseap/ProjectEuler/blob/main/Problems%20Solved/Problem%202%20-%20Even%20Fibonacci%20numbers/problem2/Program.cs)
+  - [Problem description and its answer](https://github.com/mateuseap/ProjectEuler/blob/main/Problems%20Solved/Problem%202%20-%20Even%20Fibonacci%20numbers/%232%20Even%20Fibonacci%20numbers%20-%20Project%20Euler.pdf)
+</details>
 <details> <! –– Problem 7 ––>
   <summary>
     <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/585d0331234507.564a1d239ac5e.gif" width="18px"/> Problem 7 - 10001st prime <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/585d0331234507.564a1d239ac5e.gif" width="18px"/> 
